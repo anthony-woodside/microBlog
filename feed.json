@@ -7,11 +7,19 @@
 	"items": [
 		
 			{
+				"id": "http://arw.micro.blog/2021/08/11/is-there-a.html",
+				
+				"content_html": "<p>Is there a better webcam in New Zealand than the Castlepoint Lighthouse?  <a href=\"http://castlepointlighthouse.com/\">http://castlepointlighthouse.com/</a></p>\n",
+				"content_text": "Is there a better webcam in New Zealand than the Castlepoint Lighthouse?  [http://castlepointlighthouse.com/](http://castlepointlighthouse.com/)\n",
+				"date_published": "2021-08-11T09:15:16+12:00",
+				"url": "https://anthony.woodside.nz/2021/08/11/is-there-a.html"
+			},
+			{
 				"id": "http://arw.micro.blog/2021/07/07/decided-leave-dolby.html",
 				
-				"content_html": "<p>Decided leave Dolby Atmos in the off state for my iOS devices. For me it lacks clarity (I don’t have lossless on) when listening with headphones.</p>\n\n<p>I was able to to switch between formats in the iOS settings: Dolby Atmos (Automatic | Off ) to compare without much disruption.</p>\n",
-				"content_text": "Decided leave Dolby Atmos in the off state for my iOS devices. For me it lacks clarity (I don’t have lossless on) when listening with headphones.  \n\nI was able to to switch between formats in the iOS settings: Dolby Atmos (Automatic | Off ) to compare without much disruption.\n",
-				"date_published": "2021-07-07T21:11:48+12:00",
+				"content_html": "<p>Decided leave Dolby Atmos in the off state for my iOS devices. For me it lacks clarity (I don’t have lossless on) when listening with headphones.</p>\n\n<p>I was able to switch between formats in the iOS settings: Dolby Atmos (Automatic | Off) to compare without much disruption.</p>\n",
+				"content_text": "Decided leave Dolby Atmos in the off state for my iOS devices. For me it lacks clarity (I don’t have lossless on) when listening with headphones.  \n\nI was able to switch between formats in the iOS settings: Dolby Atmos (Automatic | Off) to compare without much disruption.\n",
+				"date_published": "2021-07-07T21:11:00+12:00",
 				"url": "https://anthony.woodside.nz/2021/07/07/decided-leave-dolby.html"
 			},
 			{
